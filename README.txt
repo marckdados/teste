@@ -3,6 +3,14 @@ teste
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 https://www.webminal.org/register/
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
+mudança de tag: 
+ 298  git checkout main
+  299  git merge develop
+  300  git tag v0.1
+  301  git push --tags
+  302  git push
+  303  history
+>>>>>>>>>>>>>>>>>>>>>>
  history
     1  echo "# mercadomb" >> README.md
     2  git init
