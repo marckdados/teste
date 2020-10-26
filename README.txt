@@ -153,6 +153,7 @@ teste
   150  cd
   151  rm -rf mercadomb/
   152  ls
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
   153  git clone https://github.com/marckdados/mercadomb
   154  ls
   155  cp -r /c/Users/alunofg/Documents/Flutter\ Projects/DiMaria/mercado_mobile_v00/* /c/Users/alunofg/mercadomb/
