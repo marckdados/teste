@@ -1,5 +1,8 @@
 # teste
 teste
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+https://www.webminal.org/register/
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
  history
     1  echo "# mercadomb" >> README.md
     2  git init
